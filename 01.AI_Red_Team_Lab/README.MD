@@ -127,7 +127,7 @@ source .venv/bin/activate
 
 If a `requirements.txt` file is included:
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
