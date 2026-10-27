@@ -141,7 +141,7 @@ streamlit run app.py
 
 Open the local URL displayed in your terminal, usually:
 
-```text
+```
 http://localhost:8501
 ```
 
