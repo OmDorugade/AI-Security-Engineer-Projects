@@ -125,8 +125,6 @@ source .venv/bin/activate
 
 ### Step 4: Install Dependencies
 
-If a `requirements.txt` file is included:
-
 ```
 pip install -r requirements.txt
 ```
