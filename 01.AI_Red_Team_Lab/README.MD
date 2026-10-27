@@ -4,9 +4,9 @@
 
 Mini-Llama CTF is a hands-on, CTF-style project designed to explore vulnerabilities in Large Language Model (LLM) applications. It contains three challenges across Easy, Medium, and Hard difficulty levels, inspired by security risks covered in the OWASP Top 10 for LLM Applications.
 
-\<p align="center">
+<p align="center">
 &#x20; \<img src="Mini-Llama-CTF-Overview\.png" alt="Mini-Llama CTF Project Overview" width="100%">
-\</p>
+</p>
 
 ---
 
