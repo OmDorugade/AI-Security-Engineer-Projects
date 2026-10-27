@@ -150,6 +150,8 @@ Open the local URL displayed in your terminal, usually:
 http://localhost:8501
 ```
 
+
+
 ---
 
 ## 🗄️ Database
