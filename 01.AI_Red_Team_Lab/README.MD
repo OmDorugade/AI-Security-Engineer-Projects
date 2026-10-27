@@ -154,7 +154,7 @@ To see which Ollama models are currently loaded:
 
 ```
 ollama ps
-
+```
 
 To stop the Model:
 
