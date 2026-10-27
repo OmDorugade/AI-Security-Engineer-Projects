@@ -152,6 +152,7 @@ http://localhost:8501
 
 To see which Ollama models are currently loaded:
 
+```
 ollama ps
 
 
