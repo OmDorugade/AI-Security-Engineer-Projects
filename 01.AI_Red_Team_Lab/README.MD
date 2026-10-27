@@ -129,7 +129,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Step 5: Run the Application
+### Step 5: Run the Model
 
 ```
 
