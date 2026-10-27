@@ -135,6 +135,7 @@ pip install -r requirements.txt
 
 
 
+
 ### Step 6: Run the Application
 
 Make sure Ollama is running and the model is available, then start the Streamlit application:
