@@ -101,7 +101,7 @@ Using this model is recommended for the intended project experience. Actual resp
 ### Step 2: Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Mini-Llama-CTF.git
+git clone https://github.com/OmDorugade
 cd Mini-Llama-CTF
 ```
 
