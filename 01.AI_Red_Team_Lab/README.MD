@@ -90,7 +90,7 @@ Install and start Ollama from [ollama.com](https://ollama.com/).
 
 Pull the recommended model:
 
-```bash
+```
 ollama pull llama3.1:8b
 ```
 
