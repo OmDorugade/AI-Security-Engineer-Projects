@@ -190,4 +190,3 @@ By completing this project, learners can:
 This project is intended for educational purposes and authorized security research. The vulnerabilities are demonstrated in a controlled application. The Excessive Agency challenge uses a fictional tool scenario and does not execute real-world actions.
 
 ---
-
