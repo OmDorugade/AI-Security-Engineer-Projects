@@ -101,7 +101,7 @@ Using this model is recommended for the intended project experience. Actual resp
 ### Step 2: Clone the Repository
 
 ```bash
-git clone https://github.com/OmDorugade
+git clone https://github.com/OmDorugade/AI-Security-Engineer-Projects.git
 cd Mini-Llama-CTF
 ```
 
