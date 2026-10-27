@@ -149,7 +149,9 @@ Open the local URL displayed in your terminal, usually:
 ```
 http://localhost:8501
 ```
+To see which Ollama models are currently loaded:
 
+ollama ps
 To stop the Model:
 
 ```
