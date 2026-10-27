@@ -102,7 +102,7 @@ Using this model is recommended for the intended project experience. Actual resp
 
 ```bash
 git clone https://github.com/OmDorugade/AI-Security-Engineer-Projects.git
-cd Mini-Llama-CTF
+cd AI-Security-Engineer-Projects
 ```
 
 Replace `<your-username>` with your GitHub username.
