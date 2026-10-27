@@ -132,7 +132,7 @@ pip install -r requirements.txt
 ### Step 5: Run the Model
 
 ```
-
+ollama run llama3.1:8b
 ```
 
 
