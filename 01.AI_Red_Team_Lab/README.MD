@@ -131,6 +131,7 @@ If a `requirements.txt` file is included:
 pip install -r requirements.txt
 ```
 
+### Step 6: Run the Application
 
 
 
