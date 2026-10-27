@@ -174,9 +174,4 @@ This project is intended for educational purposes and authorized security resear
 
 ---
 
-\<p align="center">
-&#x20; \<b>Learn • Test • Understand • Secure\</b>\<br>
-&#x20; Mini-Llama CTF — AI Security Engineer Portfolio
-\</p>
-
 
