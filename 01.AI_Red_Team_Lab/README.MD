@@ -153,8 +153,9 @@ http://localhost:8501
 To stop the Model:
 
 ```
-
+ollama stop llama3.1:8b
 ```
+
 ---
 
 ## 🗄️ Database
