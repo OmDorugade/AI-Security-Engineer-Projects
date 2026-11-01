@@ -191,11 +191,5 @@ This project is intended for educational purposes and authorized security resear
 
 ---
 
-## Result
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/9ffbf95c-1e4b-48b3-82ae-95447bb71218"
-         controls
-         width="800">
-  </video>
-</p>
+
