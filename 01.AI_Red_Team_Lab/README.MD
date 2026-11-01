@@ -191,5 +191,12 @@ This project is intended for educational purposes and authorized security resear
 
 ---
 
+## Result
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/9ffbf95c-1e4b-48b3-82ae-95447bb71218">
+    ▶ Watch Mini Llama CTF Demo
+  </a>
+</p>
 
 
