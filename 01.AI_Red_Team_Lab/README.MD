@@ -194,9 +194,7 @@ This project is intended for educational purposes and authorized security resear
 ## Result
 
 <p align="center">
-  <video src="https://github.com/OmDorugade/AI-Security-Engineer-Projects/blob/main/01.AI_Red_Team_Lab/results/Mini_LLama_CTF.mp4"
-         controls
-         width="800">
-  </video>
+  <a href="https://github.com/OmDorugade/AI-Security-Engineer-Projects/blob/main/01.AI_Red_Team_Lab/results/Mini_LLama_CTF.mp4">
+    ▶ Watch Mini Llama CTF Demo
+  </a>
 </p>
-
