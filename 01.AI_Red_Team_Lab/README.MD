@@ -193,5 +193,3 @@ This project is intended for educational purposes and authorized security resear
 
 ## Result
 
-[▶ Watch Mini Llama CTF Project Demo](results/Mini_LLama_CTF.mp4)
-
