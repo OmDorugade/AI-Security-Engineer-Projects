@@ -193,7 +193,7 @@ This project is intended for educational purposes and authorized security resear
 
 ## Result
 <p align="center">
-  
+  https://github.com/OmDorugade/AI-Security-Engineer-Projects/blob/main/01.AI_Red_Team_Lab/results/Mini_LLama_CTF.mp4
 </p>
 
 
