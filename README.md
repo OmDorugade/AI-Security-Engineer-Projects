@@ -1,6 +1,6 @@
 # AI-Security-Engineer-Projects
 
-A collection of hands-on **AI Security Engineering projects** focused on understanding, attacking, securing, and building AI-powered applications. These projects explore practical security challenges in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), prompt injection, and Agentic AI.
+A collection of hands-on **AI Security Engineering projects** focused on understanding, attacking, securing, and building AI-powered applications. These projects explore practical security challenges in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), prompt injection, and AI.
 
 ## Projects
 
