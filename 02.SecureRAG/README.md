@@ -36,6 +36,7 @@ It also implements document security checks and trust boundaries to make RAG app
 ## 🏗️ System Design
 
 ```text
+
                                      ┌──────────────────────────┐
                                      │       User Interface     │
                                      │         Streamlit        │
