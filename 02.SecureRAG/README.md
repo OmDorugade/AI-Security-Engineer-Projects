@@ -3,6 +3,7 @@
 SecureRAG is a locally hosted AI-powered document assistant built using Retrieval-Augmented Generation (RAG).   
 The project mainly focuses on detecting direct and indirect prompt injection attacks in user inputs and uploaded documents.  
 It also implements document security checks and trust boundaries to make RAG applications more security-aware.
+
 Users can upload their own PDF, CSV, or TXT documents and ask questions about their content — it is not limited to HR or IT documents.
 The project focuses on detecting direct and indirect prompt injection attacks and implementing security mechanisms for RAG applications.
 
