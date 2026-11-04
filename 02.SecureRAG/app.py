@@ -82,9 +82,8 @@ with st.sidebar:
     st.caption(
         """
         SecureRAG is an AI-powered enterprise knowledge assistant
-        developed for TechNova Solutions.
 
-        It uses RAG to retrieve information from internal HR and IT
+        It uses RAG to retrieve information from
         documents while implementing security measures against
         prompt injection and malicious document content.
         """
