@@ -101,7 +101,7 @@ It also implements document security checks and trust boundaries to make RAG app
 
 SecureRAG is an educational defensive prototype. Its regex-based detection and prompt-level protections do not guarantee detection or prevention of every prompt injection attack. Retrieval score inspection is available for analysis, but automatic relevance-threshold filtering is not activated.
 
-## Results
+## Result
 
 
 
