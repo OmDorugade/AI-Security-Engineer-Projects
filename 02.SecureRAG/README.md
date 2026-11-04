@@ -36,49 +36,49 @@ It also implements document security checks and trust boundaries to make RAG app
 ## 🏗️ System Design
 
 ```text
-                 ┌──────────────────────────┐
-                 │       User Interface     │
-                 │         Streamlit        │
-                 └────────────┬─────────────┘
-                              │
-                 ┌────────────▼─────────────┐
-                 │       User Request       │
-                 │  Upload / Ask Question   │
-                 └────────────┬─────────────┘
-                              │
-                 ┌────────────▼─────────────┐
-                 │      Security Layer      │
-                 │                          │
-                 │  Direct Injection Scan   │
-                 │  Indirect Injection Scan  │
-                 │  Document Security       │
-                 └────────────┬─────────────┘
-                              │
-                 ┌────────────▼─────────────┐
-                 │       RAG Pipeline       │
-                 │                          │
-                 │  Document Processing     │
-                 │  Text Splitting          │
-                 │  Embedding & Retrieval   │
-                 └────────────┬─────────────┘
-                              │
-                 ┌────────────▼─────────────┐
-                 │        ChromaDB          │
-                 │      Vector Store        │
-                 └────────────┬─────────────┘
-                              │
-                 ┌────────────▼─────────────┐
-                 │        Ollama LLM        │
-                 │        Llama 3.1         │
-                 │                          │
-                 │  Untrusted Document      │
-                 │  Context + User Query    │
-                 └────────────┬─────────────┘
-                              │
-                 ┌────────────▼─────────────┐
-                 │     Generated Answer     │
-                 │   + Document Sources     │
-                 └──────────────────────────┘
+                                     ┌──────────────────────────┐
+                                     │       User Interface     │
+                                     │         Streamlit        │
+                                     └────────────┬─────────────┘
+                                                  │
+                                     ┌────────────▼─────────────┐
+                                     │       User Request       │
+                                     │  Upload / Ask Question   │
+                                     └────────────┬─────────────┘
+                                                  │
+                                     ┌────────────▼─────────────┐
+                                     │      Security Layer      │
+                                     │                          │
+                                     │  Direct Injection Scan   │
+                                     │  Indirect Injection Scan  │
+                                     │  Document Security       │
+                                     └────────────┬─────────────┘
+                                                  │
+                                     ┌────────────▼─────────────┐
+                                     │       RAG Pipeline       │
+                                     │                          │
+                                     │  Document Processing     │
+                                     │  Text Splitting          │
+                                     │  Embedding & Retrieval   │
+                                     └────────────┬─────────────┘
+                                                  │
+                                     ┌────────────▼─────────────┐
+                                     │        ChromaDB          │
+                                     │      Vector Store        │
+                                     └────────────┬─────────────┘
+                                                  │
+                                     ┌────────────▼─────────────┐
+                                     │        Ollama LLM        │
+                                     │        Llama 3.1         │
+                                     │                          │
+                                     │  Untrusted Document      │
+                                     │  Context + User Query    │
+                                     └────────────┬─────────────┘
+                                                  │
+                                     ┌────────────▼─────────────┐
+                                     │     Generated Answer     │
+                                     │   + Document Sources     │
+                                     └──────────────────────────┘
 ```
 
 **Architecture Components:**
